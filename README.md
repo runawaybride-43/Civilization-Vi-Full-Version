@@ -241,4 +241,4 @@ This repository serves as the official landing page for Civilization VI. The sof
 **Get the most recent version of Civilization VI today!**
 
 ---
-**Last updated:** 2026-09-27 19:30:25 UTC
+**Last updated:** 2026-09-27 22:40:04 UTC
